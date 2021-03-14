@@ -31,7 +31,7 @@ Carrying out CNN Channel Pruning in a White Box
 
 #### ImageNet
 
-| Network  | Flops&#8595; | Top1 acc.  | Top5 acc. | Pruned Model                                                 |
+| Network  | Flops&#8595; | Top1 Acc.  | Top5 Acc. | Pruned Model                                                 |
 | -------- | ----------------- | -------- | -------- | ------------------------------------------------------------ |
 | ResNet50 | 45.6%             | 75.32%   | 92.43%   | [Modellink](https://drive.google.com/drive/folders/1WGWce2puviqwKfjWrxB9CLJcotJxOx_a?usp=sharing) |
 | ResNet50 | 63.5%             | 74.21%   | 92.01%   | [Modellink](https://drive.google.com/drive/folders/15C6RvrLvPoswrXKpvT_idCm8rB88zxLB?usp=sharing) |
